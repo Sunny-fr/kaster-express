@@ -1,0 +1,10 @@
+{
+  "name": "<%= capitalizeName %>",
+  "publicPath": "/",
+  "publicDirectoryPath": "./public",
+  "app": {
+    "host": "localhost",
+    "port": "4064"
+  },
+  "addCors": true
+}

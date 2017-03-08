@@ -1,0 +1,26 @@
+{
+  "name": "kaster-express",
+  "version": "1.0.0",
+  "description": "A caster generator for node/express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alaa El Helw",
+    "email": "sicksadsun@gmail.com",
+    "url": "https://github.com/Sunny-fr/kaster-express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunny-fr/kaster-express.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-fr/kaster-express/issues"
+  },
+  "homepage": "https://github.com/Sunny-fr/kaster-express#readme",
+  "dependencies": {
+    "caster": "github:sunny-fr/kaster"
+  }
+}
