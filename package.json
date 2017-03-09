@@ -1,6 +1,6 @@
 {
   "name": "kaster-express",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A caster generator for node/express server",
   "main": "index.js",
   "scripts": {

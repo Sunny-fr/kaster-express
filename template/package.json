@@ -10,6 +10,6 @@
   "author": "provide your name please",
   "license": "ISC",
   "dependencies": {
-    "phenixExpress": "phenix-express"
+    "phenix-express": "^0.0.2"
   }
 }
