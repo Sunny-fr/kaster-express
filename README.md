@@ -5,7 +5,7 @@ based on phenix-express (http://github.com/Sunny-fr/phenix-express)
 
 ## install
 ```
-npm install Sunny-fr/kaster-express --save-dev
+npm install -g kaster kaster-express
 ```
 
 ## command
