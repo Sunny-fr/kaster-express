@@ -1,4 +1,4 @@
-const server = require('phenixExpress').server
+const server = require('phenix-express').server
 const setup = require('./config/setup')
 const config = require('./singletons/config')
 
